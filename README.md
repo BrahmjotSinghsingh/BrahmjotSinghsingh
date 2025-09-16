@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Brahmjot Singh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Docker for DevOps**
+- 🌱 I’m currently learning **NLP & Data Processing**
 
 - 📫 Reach me at **brahmjotsingh0012@gmail.com**
 
